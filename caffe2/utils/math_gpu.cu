@@ -12,6 +12,7 @@
 
 #include <thrust/device_vector.h>
 #include <thrust/functional.h>
+#include <thrust/host_vector.h>
 
 #include "caffe2/core/context_gpu.h"
 #include "caffe2/utils/conversions.h"
